@@ -30,7 +30,7 @@
         "@arkecosystem/crypto": "3.6.1",
         "better-sqlite3": "7.4.3",
         "fs-extra": "8.1.0",
-        "joi": "17.4.2"
+        "joi": "17.13.4"
     },
     "devDependencies": {
         "@types/better-sqlite3": "5.4.3",
