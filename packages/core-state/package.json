@@ -27,7 +27,7 @@
         "@arkecosystem/core-transactions": "3.6.1",
         "@arkecosystem/crypto": "3.6.1",
         "immutable": "4.0.0-rc.14",
-        "joi": "17.4.2"
+        "joi": "17.13.4"
     },
     "engines": {
         "node": ">=10.x"
